@@ -24,7 +24,7 @@ Many of these allergens don't make much practical sense, but it's best not to th
 | 00 | Roll twice on this table and take both results (re-roll duplicate allergens). |
 
 ### Alignment Allergens
-You must make an allergy Saving Throw any time you make physical contact with a creature of the corresponding alignment. If you roll your own alignment, roll on this table again to receive a replacement allergen.
+You must make an allergy saving throw any time you make physical contact with a creature of the corresponding alignment. If you roll your own alignment, roll on this table again to receive a replacement allergen.
 
 ##### Alignments
 
@@ -43,7 +43,7 @@ You must make an allergy Saving Throw any time you make physical contact with a 
 
 ### Condition Allergens
 
-You must make an allergy Saving Throw any time you are subjected to the corresponding condition or situation.
+You must make an allergy saving throw any time you are subjected to the corresponding condition or situation.
 
 ##### Conditions
 
@@ -72,7 +72,7 @@ You must make an allergy Saving Throw any time you are subjected to the correspo
 
 ### Creature Allergens
 
-You must make an allergy Saving Throw any time you make physical contact with a creature of the corresponding type. If you roll your own creature type, roll on this table again to receive a replacement allergen.
+You must make an allergy saving throw any time you make physical contact with a creature of the corresponding type. If you roll your own creature type, roll on this table again to receive a replacement allergen.
 
 ##### Creature Types
 
@@ -95,7 +95,7 @@ You must make an allergy Saving Throw any time you make physical contact with a 
 
 ### Damage Type Allergens
 
-You must make an allergy Saving Throw any time you are dealt damage of the corresponding type.
+You must make an allergy saving throw any time you are dealt damage of the corresponding type.
 
 ##### Damage Types
 
@@ -123,7 +123,7 @@ You must make an allergy Saving Throw any time you are dealt damage of the corre
 
 ### Fortune Allergens
 
-You must make an allergy Saving Throw any time you make the corresponding dice roll.
+You must make an allergy saving throw any time you make the corresponding dice roll.
 
 ##### Fortunes
 
@@ -133,42 +133,44 @@ You must make an allergy Saving Throw any time you make the corresponding dice r
 | 2 | Rolling a 20 on a d20 |
 | 3 | Rolling over 20 on a skill check |
 | 4 | Failing a skill check |
-| 5 | Failing a Saving Throw (except for Saving Throws against allergic reactions or the Exhausted condition) |
+| 5 | Failing a saving throw (except for saving throws against allergic reactions or the Exhausted condition) |
 | 6 | Rolling percentile dice (except when rolling on **Allergen** or random magical effect tables) |
 
 ### Mundane Allergens
 
-You have a more common allergen triggered by environmental factors, or exposure to relatively mundane materials. Since these do not necessarily match existing game mechanics, making an allergy Saving Throw will depend on the specific rules of the allergen as listed in the **Mundane** table. If you roll a mundane material that is referenced in your proficiencies or starting equipment, roll on this table again to receive a replacement allergen.
+You have a more common allergen triggered by environmental factors, or exposure to relatively mundane materials. Since these do not necessarily match existing game mechanics, making an allergy saving throw will depend on the specific rules of the allergen as listed in the **Mundane** table. If you roll a mundane material that is referenced in your proficiencies or starting equipment, roll on this table again to receive a replacement allergen.
 
 ##### Mundane
 
 | d6 | Allergen |
 |:-:|:-|
-| 1 | **Dust**. If you are in an environment the Game Master determines to be dusty (such as a long-abandoned building), when you first arrive and for each hour spent there, you have a 10% chance of needing to make an allergy Saving Throw (increases by 10% for every hour spent in that environment beyond the first). |
-| 2 | A **food** ingredient of your choice. Any time you eat food prepared by someone other than yourself, it has a 10% chance of containing your food allergen, triggering an allergy Saving Throw. |
-| 3 | An **herb** of your choice. Any time you drink a potion prepared by someone other than yourself, it has a 10% chance of containing your herb allergen, triggering an allergy Saving Throw. |
-| 4 | **Metal**. You must make an allergy Saving Throw any time you make physical contact with a metallic object or creature. |
-| 5 | **Mold**. If you are in an environment the GM determines to be moldy (such as a cave), when you first arrive and for each hour spent there, you have a 10% chance of needing to make an allergy Saving Throw (increases by 10% for every hour spent in that environment beyond the first). |
-| 6 | **Pollen**. If you are in an environment the GM determines to have pollen in the air (such as an open field of flowers, or a windy climate in springtime), when you first arrive and for each hour spent there, you have a 10% chance of needing to make an allergy Saving Throw (increases by 10% for every hour spent in that environment beyond the first). |
+| 1 | **Dust**. If you are in an environment the Game Master determines to be dusty (such as a long-abandoned building), when you first arrive and for each hour spent there, you have a 10% chance of needing to make an allergy saving throw (increases by 10% for every hour spent in that environment beyond the first). |
+| 2 | A **food** ingredient of your choice. Any time you eat food prepared by someone other than yourself, it has a 10% chance of containing your food allergen, triggering an allergy saving throw. |
+| 3 | An **herb** of your choice. Any time you drink a potion prepared by someone other than yourself, it has a 10% chance of containing your herb allergen, triggering an allergy saving throw. |
+| 4 | **Metal**. You must make an allergy saving throw any time you make physical contact with a metallic object or creature. |
+| 5 | **Mold**. If you are in an environment the GM determines to be moldy (such as a cave), when you first arrive and for each hour spent there, you have a 10% chance of needing to make an allergy saving throw (increases by 10% for every hour spent in that environment beyond the first). |
+| 6 | **Pollen**. If you are in an environment the GM determines to have pollen in the air (such as an open field of flowers, or a windy climate in springtime), when you first arrive and for each hour spent there, you have a 10% chance of needing to make an allergy saving throw (increases by 10% for every hour spent in that environment beyond the first). |
 
 ### Planar Allergens
 
-You must make an allergy Saving Throw when you enter the corresponding plane of existence, if you are within 30 feet of a portal to that plane, or if you are within 30 feet of a creature or object from that plane. You repeat this Saving Throw for every hour spent on that plane or in range of the portal or native creatures and objects. If you roll the plane of your origin, roll on this table again to receive a replacement allergen.
+You must make an allergy saving throw when you enter the corresponding plane of existence, if you are within 30 feet of a portal to that plane, or if you are within 30 feet of a creature or object from that plane. You repeat this saving throw for every hour spent on that plane or in range of the portal or native creatures and objects. If you roll the plane of your origin, roll on this table again to receive a replacement allergen.
 
 ##### Planes of Existence
 
-| d10 | Allergen |
+| d12 | Allergen |
 |:-:|:-|
 | 1 | The Material Plane |
-| 2 | The Ethereal Plane |
-| 3 | The Astral Plane |
-| 4 | The Elemental Plane of Air |
-| 5 | The Elemental Plane of Earth |
-| 6 | The Elemental Plane of Fire |
-| 7 | The Elemental Plane of Water |
-| 8 | An Outer Plane (roll on the **Alignments** table; you are allergic to any planes of the corresponding alignment; if you roll **Unaligned**, you are allergic to the spaces between planes) |
-| 9 | The Far Realm |
-| 10 | Demiplanes and extradimensional spaces (such as the inside of a bag of holding) |
+| 2 | Feywild |
+| 3 | Shadowfell |
+| 4 | Ethereal Plane |
+| 5 | Astral Plane |
+| 6 | The Elemental Plane of Air |
+| 7 | The Elemental Plane of Earth |
+| 8 | The Elemental Plane of Fire |
+| 9 | The Elemental Plane of Water |
+| 10 | An Outer Plane (roll on the **Alignments** table; you are allergic to any planes of the corresponding alignment; if you roll **Unaligned**, you are allergic to the spaces between planes) |
+| 11 | Far Realm |
+| 12 | Demiplanes and extradimensional spaces (such as the inside of a bag of holding) |
 
 ---
 
