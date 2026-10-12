@@ -2,7 +2,7 @@
 
 ## Natural Recovery
 
-The most effective treatment for allergic reactions is to remove exposure to the offending allergen and to get some rest. Removing all levels of Exhaustion (either by finishing Long Rests with food and drink or by magical means) restores you to normal health. After you have been restored in this manner, you do not need to make allergy Saving Throws for the next 24 hours.
+The most effective treatment for allergic reactions is to remove exposure to the offending allergen and to get some rest. Removing all levels of Exhaustion (either by finishing Long Rests with food and drink or by magical means) restores you to normal health. After you have been restored in this manner, you do not need to make allergy saving throws for the next 24 hours.
 
 ## Potion of Allergy Relief
 
@@ -12,7 +12,7 @@ _Potion, Uncommon_
 
 When you drink this clear potion, you are subject to the following effects:
 - You immediately remove all effects of allergic reactions, including any levels of Exhaustion triggered by allergic reactions.
-- For the next week, you automatically succeed in all allergy Saving Throws.
+- For the next week, you automatically succeed in all allergy saving throws.
 - At the end of the first Long Rest you take after drinking this potion, you gain 2d4 + 2 Temporary Hit Points.
 
 #### Description
@@ -33,7 +33,7 @@ With sufficient time and access to the appropriate raw materials, skilled herbal
 
 It is important to note the following aspects of allergies:
 
-- No creature can have resistance or immunity to their allergen, even if they have resistance or immunity to a related condition, damage, or other effect. Allergy Saving Throws are resolved independently of any such resistances and immunities.
+- No creature can have resistance or immunity to their allergen, even if they have resistance or immunity to a related condition, damage, or other effect. Allergy saving throws are resolved independently of any such resistances and immunities.
 - Allergens are not poisons, or anything that could similarly be detected as a harmful substance by mundane or magical means, unless you are specifically looking for the presence of the offending material, creature, or planar energies.
 - Allergies and allergic reactions are not curses (even if they might sometimes feel like it), and thus cannot be alleviated by any effects that remove curses.
 
